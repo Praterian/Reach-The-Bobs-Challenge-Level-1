@@ -15,4 +15,3 @@ export const main = Reach.App(() =>{
         commit()
         exit()
 });
-.rsh linguist-language=js
