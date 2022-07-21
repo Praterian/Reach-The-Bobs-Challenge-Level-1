@@ -1,4 +1,3 @@
-.rsh linguist-language=js
 'reach 0.1'
 export const main = Reach.App(() =>{
     const A = Participant('Alice', {
@@ -16,3 +15,4 @@ export const main = Reach.App(() =>{
         commit()
         exit()
 });
+*.rsh linguist-language=js
